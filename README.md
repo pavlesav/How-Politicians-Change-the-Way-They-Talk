@@ -34,7 +34,7 @@ This project explores how politicians adapt their language in parliamentary deba
 
 ## Data
 
-- ** https://www.clarin.si/repository/xmlui/handle/11356/1914 **
+- **[Parlamint II by Clarin](https://www.clarin.si/repository/xmlui/handle/11356/1914)**
 ---
 
 ## 📊 Example Analyses
